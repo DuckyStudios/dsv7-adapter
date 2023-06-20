@@ -1,0 +1,19 @@
+{
+  "name": "dsv7-adapter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [
+    "dsv7"
+  ],
+  "author": "ducky",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.3.1",
+    "randexp": "^0.5.3",
+    "typedjson": "^1.8.0"
+  }
+}
